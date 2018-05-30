@@ -21,4 +21,4 @@ All pre-rendering 3D animations and computer graphics are found here.
 
 
 
-### [Return to home page] (https://creativityinspired.github.io/V-Project/)
+### [Return to home page](https://creativityinspired.github.io/V-Project/)
